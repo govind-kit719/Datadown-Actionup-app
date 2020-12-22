@@ -1,0 +1,13 @@
+.inner{
+    border: 1px solid gray;
+    height: 150px;
+    width: 150px;
+    text-align: center;
+    line-height: 150px;
+    background-color: red;
+    color: white;
+    display: inline-block;
+}
+.name{
+    margin: 5px;
+}

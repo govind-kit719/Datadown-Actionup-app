@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "Datadown-Actionup-app"
+  "defaultProject": "Datadown-Actionup-app",
+  "cli": {
+    "analytics": false
+  }
 }
